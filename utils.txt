@@ -1,0 +1,1 @@
+prévoir l'ajout d'un fichier pour la mise en conteneur lxc ou docker
